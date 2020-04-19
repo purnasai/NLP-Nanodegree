@@ -9,3 +9,8 @@
 2. [Neural Machine Translation with Recurrent Neural Networks](https://github.com/udacity/aind2-nlp-capstone)
 
 3. [End-to-end Automatic Speech Recognition with Convolutional Neural Networks and Recurrent Neural Networks](https://github.com/udacity/AIND-VUI-Capstone)
+
+
+### Other 2 repostitories to see:
+- https://github.com/fdasilva59/Udacity-Natural-Language-Processing-Nanodegree
+- https://github.com/udacity/NLP-Exercises
